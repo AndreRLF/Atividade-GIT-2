@@ -16,7 +16,7 @@ public class Agenda {
 		this.pessoas = pessoas;
 	}
 		
-	public void dev1(String a, String b){
-		 System.out.println(a+b);
+	public void dev2(String a){
+		 System.out.println(a);
 	}
 }
