@@ -19,4 +19,8 @@ public class Agenda {
 	public void dev2(String a){
 		 System.out.println(a);
 	}
+
+	public void dev1(String a, String b){
+		 System.out.println(a+b);
+	}
 }
